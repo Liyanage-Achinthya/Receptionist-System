@@ -1,0 +1,13 @@
+C:\Users\ulach\OneDrive\Documents\Visual Studio 2022\Projects\AutomatedReceptionistSystem\AutomatedReceptionistSystem\bin\Debug\AutomatedReceptionistSystem.exe.config
+C:\Users\ulach\OneDrive\Documents\Visual Studio 2022\Projects\AutomatedReceptionistSystem\AutomatedReceptionistSystem\bin\Debug\AutomatedReceptionistSystem.exe
+C:\Users\ulach\OneDrive\Documents\Visual Studio 2022\Projects\AutomatedReceptionistSystem\AutomatedReceptionistSystem\bin\Debug\AutomatedReceptionistSystem.pdb
+C:\Users\ulach\OneDrive\Documents\Visual Studio 2022\Projects\AutomatedReceptionistSystem\AutomatedReceptionistSystem\obj\Debug\AutomatedReceptionistSystem.csproj.AssemblyReference.cache
+C:\Users\ulach\OneDrive\Documents\Visual Studio 2022\Projects\AutomatedReceptionistSystem\AutomatedReceptionistSystem\obj\Debug\AutomatedReceptionistSystem.frmLogin.resources
+C:\Users\ulach\OneDrive\Documents\Visual Studio 2022\Projects\AutomatedReceptionistSystem\AutomatedReceptionistSystem\obj\Debug\AutomatedReceptionistSystem.frmNewUser.resources
+C:\Users\ulach\OneDrive\Documents\Visual Studio 2022\Projects\AutomatedReceptionistSystem\AutomatedReceptionistSystem\obj\Debug\AutomatedReceptionistSystem.frmServices.resources
+C:\Users\ulach\OneDrive\Documents\Visual Studio 2022\Projects\AutomatedReceptionistSystem\AutomatedReceptionistSystem\obj\Debug\AutomatedReceptionistSystem.frmCheckout.resources
+C:\Users\ulach\OneDrive\Documents\Visual Studio 2022\Projects\AutomatedReceptionistSystem\AutomatedReceptionistSystem\obj\Debug\AutomatedReceptionistSystem.Properties.Resources.resources
+C:\Users\ulach\OneDrive\Documents\Visual Studio 2022\Projects\AutomatedReceptionistSystem\AutomatedReceptionistSystem\obj\Debug\AutomatedReceptionistSystem.csproj.GenerateResource.cache
+C:\Users\ulach\OneDrive\Documents\Visual Studio 2022\Projects\AutomatedReceptionistSystem\AutomatedReceptionistSystem\obj\Debug\AutomatedReceptionistSystem.csproj.CoreCompileInputs.cache
+C:\Users\ulach\OneDrive\Documents\Visual Studio 2022\Projects\AutomatedReceptionistSystem\AutomatedReceptionistSystem\obj\Debug\AutomatedReceptionistSystem.exe
+C:\Users\ulach\OneDrive\Documents\Visual Studio 2022\Projects\AutomatedReceptionistSystem\AutomatedReceptionistSystem\obj\Debug\AutomatedReceptionistSystem.pdb
