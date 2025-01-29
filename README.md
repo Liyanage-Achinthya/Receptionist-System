@@ -1,2 +1,2 @@
-# Receptionist-System.
-This is a customer management solution designed for vehicle service centers. Developed using C#, MS SQL Server and .NET Framework using Visual Studio 2022.
+# Receptionist-System
+The Automated Receptionist System is a smart customer management solution designed for vehicle service centers. Developed using C#, MS SQL Server, and .NET Framework. Visual Studio 2022 was the IDE. The system features a user-friendly interface for gathering customer requirements efficiently, ensuring a smooth and intuitive experience directing customers to available service bays, optimizing operational efficiency and reducing waiting times.
